@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "475084358520",
+    "firebase_url": "https://cinebox-ab55e.firebaseio.com",
+    "project_id": "cinebox-ab55e",
+    "storage_bucket": "cinebox-ab55e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475084358520:android:90733d81fb143cbe",
+        "android_client_info": {
+          "package_name": "com.saran.cinebox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475084358520-7269s8kiqbq6jlnphjij9io6e7uau5i0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saran.cinebox",
+            "certificate_hash": "DB69E0D38610E940984BA1362A8DCA8072F098F1"
+          }
+        },
+        {
+          "client_id": "475084358520-im170apbarj4on0ots1otlvhbd5bl9rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0xN1jUVtuxweER_NLyJfOZq26BsHKx8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475084358520-im170apbarj4on0ots1otlvhbd5bl9rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
